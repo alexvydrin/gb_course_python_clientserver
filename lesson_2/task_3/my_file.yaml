@@ -1,0 +1,9 @@
+key_1:
+- value_1
+- value_2
+- value_3
+key_2: 22
+key_3:
+  sub_key_1: 100 $
+  sub_key_2: 200 ¥
+  sub_key_3: 300 ₽

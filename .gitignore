@@ -1,0 +1,12 @@
+*.pyc
+*~
+__pycache__
+myvenv
+venv
+db.sqlite3
+database.cnf
+/static
+/media
+/tmp
+.DS_Store
+.idea

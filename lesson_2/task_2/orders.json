@@ -1,0 +1,39 @@
+{
+    "orders": [
+        {
+            "item": "printer",
+            "quantity": "10",
+            "price": "6700",
+            "buyer": "Ivanov I.I.",
+            "date": "24.09.2017"
+        },
+        {
+            "item": "scaner",
+            "quantity": "20",
+            "price": "10000",
+            "buyer": "Petrov P.P.",
+            "date": "11.01.2018"
+        },
+        {
+            "item": "computer",
+            "quantity": "5",
+            "price": "40000",
+            "buyer": "Sidorov S.S.",
+            "date": "2.05.2019"
+        },
+        {
+            "item": "product_1",
+            "quantity": "100",
+            "price": "50",
+            "buyer": "Vasechkin",
+            "date": "01.10.2020"
+        },
+        {
+            "item": "product_2",
+            "quantity": "200",
+            "price": "70",
+            "buyer": "Petrov",
+            "date": "01.10.2020"
+        }
+    ]
+}
